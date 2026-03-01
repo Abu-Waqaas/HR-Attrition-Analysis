@@ -1,6 +1,6 @@
 # HR-Attrition-Analysis
 
-# HR-Attrition-Analsyis
+
 This analysis was performed to check the HR attrition of a company 
 # 👥 HR Attrition Analysis Dashboard
 
